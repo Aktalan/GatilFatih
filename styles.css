@@ -102,6 +102,20 @@ textarea {
   transform: translateY(0);
 }
 
+
+.satire-disclaimer {
+  width: 100%;
+  text-align: center;
+  padding: 10px 14px;
+  background: linear-gradient(180deg, rgba(224, 22, 42, 0.28), rgba(224, 22, 42, 0.16));
+  border-bottom: 1px solid rgba(255, 59, 79, 0.45);
+  color: rgba(255, 255, 255, 0.96);
+  font-size: 14px;
+  font-weight: 740;
+  letter-spacing: 0.2px;
+}
+
+
 .site-header {
   position: sticky;
   top: 0;
